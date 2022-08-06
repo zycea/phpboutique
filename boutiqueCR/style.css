@@ -1,0 +1,80 @@
+.navigation{
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-navigation{
+  width: 200px;
+  display: flex; 
+  justify-content: space-around;
+}
+
+.right-navigation{
+  width: 150px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.register-form{
+  width: 400px;
+}
+
+.login-form{
+  width: 400px;
+  margin: 300px auto;
+}
+
+.product-form{
+  margin: 200px auto;
+}
+
+.action{
+  display: flex;
+  justify-content: space-around;
+}
+
+.main{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.produit{
+  width: 30%;
+  margin: 10px 0;
+}
+
+.produit img{
+  width: 100%;
+}
+
+.details{
+  width: 70%;
+  margin: 100px auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.left{
+  width: 40%;
+}
+
+.left img{
+  width: 100%;
+}
+
+.right{
+  width: 50%;
+}
+
+.bouton{
+  display: flex;
+  justify-content: center;
+}
+
+.deconnexion{
+  width: 250px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
